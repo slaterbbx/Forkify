@@ -1,1 +1,1 @@
-starter
+This is a Vanilla JS project using Food2Fork free API. This was created as part of a Udemy project I took.
