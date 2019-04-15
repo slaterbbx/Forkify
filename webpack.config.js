@@ -121,7 +121,3 @@ module.exports = {
         ]
     },
 }
-
-// One big note:
-// outputPath is place where your want to save files
-// publicPath is what url you have in js, css and etc files.
